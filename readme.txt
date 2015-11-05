@@ -4,6 +4,7 @@ This sample project demonstrates the below:
 
 1.) Verifying fingerprints from file.
 2.) Identifying fingerprints from database.
+3.) Changes in session4Git
 
 To use the database feature you will need to update the project source code to use the appropriate connection string
  (server,username, password, etc) as specified in both "Enrollment.java" and "Verification.java".
